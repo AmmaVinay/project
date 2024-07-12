@@ -2,7 +2,7 @@
 ._Container {
     background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
     padding-bottom: 15px;
-    font-family: Roboto;
+    font-family: arial;
 }
 
 .bg-color,.bg-colors {
